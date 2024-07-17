@@ -95,3 +95,6 @@ class PracticeFormPage:
             f'{street}',
             f'{state_and_city}'
         ))
+
+
+registration_form = PracticeFormPage()
